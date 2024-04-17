@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 406: expected a keyword argument, colon, or end of line.
+    add text "{size=+20}{font=MinstrelPosterNF.otf}SUMMER TIME{/font}{/size}":
+             ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Oct 05 11:57:51 2020
