@@ -15,7 +15,7 @@ PlayerSettings:
   companyName: DefaultCompany
   productName: You Owe Me
   defaultCursor: {fileID: 0}
-  cursorHotspot: {x: 0, y: 0}
+  cursorHotspot: {x: 100, y: 100}
   m_SplashScreenBackgroundColor: {r: 0.09411765, g: 0.09411765, b: 0.09411765, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
